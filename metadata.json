@@ -1,0 +1,6 @@
+{
+  "name": "LedgerSync",
+  "description": "Personal finance tracker with automatic bank account syncing and intelligent spending categorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
